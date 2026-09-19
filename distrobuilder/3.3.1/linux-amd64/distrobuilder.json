@@ -1,0 +1,11 @@
+{
+  "name": "distrobuilder",
+  "version": "3.3.1",
+  "platform": "linux",
+  "architecture": "amd64",
+  "binary": "distrobuilder",
+  "checksum_file": "distrobuilder.sha256",
+  "sha256": "ff3f496ddd244c5abd1474d2c2f44ba42a76e026fd67878ffbf10e641a72d3fc",
+  "download_url": "https://raw.githubusercontent.com/mfleming1290/mos-plugin-binaries/main/distrobuilder/3.3.1/linux-amd64/distrobuilder",
+  "checksum_url": "https://raw.githubusercontent.com/mfleming1290/mos-plugin-binaries/main/distrobuilder/3.3.1/linux-amd64/distrobuilder.sha256"
+}
